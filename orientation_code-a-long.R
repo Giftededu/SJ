@@ -9,8 +9,8 @@
 ### a. Functions ####
 #####################
 
-mean()
-max()
+?mean()
+?max()
 filter()
 class()
 
