@@ -370,7 +370,7 @@ Also, change the color to one other than blue.
 
 ```{r}
 ggplot(d, aes(x = total_points_earned)) +
-  geom_histogram(fill = "red")
+  geom_histogram(fill = "yellow")
 ```
 
 ### Reach 2 🎉
