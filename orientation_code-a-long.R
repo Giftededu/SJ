@@ -9,8 +9,8 @@
 ### a. Functions ####
 #####################
 
-?mean()
-?max()
+mean()
+max()
 filter()
 class()
 
@@ -71,6 +71,10 @@ my_number <- 5
 my_product <- my_number * 2
 
 my_product
+
+x <- 20*4
+x <- 20*5
+x
 
 ########Other operators 
 
