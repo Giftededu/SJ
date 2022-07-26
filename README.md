@@ -1,10 +1,10 @@
 <img src="img/LASER_Hx.png" width="30%"/>
 
 # LASER Orientation Lab Session
- 
+
 ## Orientation Introduction
 
-Introduction to the concepts of open science and reproducible research for application to learning analytics using R and R Studio.The focus of our essential readings are to get LASER scholars oriented to the essentials of reproducible research. The Code-along includes introduction to the R integrated development environment and R basics (packages, functions, objects, and arguments). Understanding the basic syntax is key for using R and R packages. Written by Catherine Noonan, Jeanne McClure, Presented by Shaun Kellogg and Jenn Houchins  at the Learning Analytics in STEM Education Research (LASER) workshop, July 11, 2022, through July 15, 2022, at the Friday Institute, North Carolina State University.
+Introduction to the concepts of open science and reproducible research for application to learning analytics using R and R Studio.The focus of our essential readings are to get LASER scholars oriented to the essentials of reproducible research. The Code-along includes introduction to the R integrated development environment and R basics (packages, functions, objects, and arguments). Understanding the basic syntax is key for using R and R packages. Written by Catherine Noonan, Jeanne McClure, Presented by Shaun Kellogg and Jenn Houchins at the Learning Analytics in STEM Education Research (LASER) workshop, July 11, 2022, through July 15, 2022, at the Friday Institute, North Carolina State University.
 
 ## Reproducible Research
 
@@ -12,7 +12,7 @@ This presentation provides a conceptual overview of reproducible research, parti
 
 ## GitHub Desktop
 
-This presentation introduces the concept of version control as a one core practice of reproducible research. The presentation will cover adding version control to the learning analytics workflow using [github.com](https://github.com/) and an application called Github Desktop. We will become familiar with navigating github.com and examining the file structures associated with repositories. 
+This presentation introduces the concept of version control as a one core practice of reproducible research. The presentation will cover adding version control to the learning analytics workflow using [github.com](https://github.com/) and an application called Github Desktop. We will become familiar with navigating github.com and examining the file structures associated with repositories.
 
 The accompanying walkthrough introduces Github Desktop as a tool for the creation of new repositories, cloning the LASER Learning Lab repositories, and navigating to the resulting local copy of the repository to make changes to the files contained within the project. At the end of this walkthrough, we will have an R project set up for the next presentation in this orientation session.
 
