@@ -6,7 +6,6 @@ add_numbers(100, 101)
 add_numbers(1, 2)
 
 
-
 library(readr)
 sci_online_classes <- read_csv("data/sci-online-classes.csv")
 View(sci_online_classes)
